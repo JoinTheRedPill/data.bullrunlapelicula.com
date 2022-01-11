@@ -2,8 +2,8 @@
     "checkpoints": [
         {
             "timestamp": 1641817310,
-            "value": 10000,
-            "price": 0.02
+            "value": 0,
+            "price": 0
         },
         {
             "timestamp": 1644495710,
@@ -17,13 +17,13 @@
         },
         {
             "timestamp": 1649593310,
-            "value": 30000,
-            "price": 0.06
+            "value": 80000,
+            "price": 0.16
         },
         {
             "timestamp": 1652185310,
-            "value": 80000,
-            "price": 0.16
+            "value": 160000,
+            "price": 0.32
         },
         {
             "timestamp": 1654858190,
