@@ -3,27 +3,32 @@
         {
             "timestamp": 1641817310,
             "value": 10000,
-            "price": 0.0211
+            "price": 0.02
         },
         {
             "timestamp": 1644495710,
             "value": 20000,
-            "price": 0.0422
+            "price": 0.04
         },
         {
             "timestamp": 1646914910,
             "value": 40000,
-            "price": 0.0844
+            "price": 0.08
         },
         {
             "timestamp": 1649593310,
             "value": 30000,
-            "price": 0.0633
+            "price": 0.06
         },
         {
             "timestamp": 1652185310,
             "value": 80000,
-            "price": 0.1688
+            "price": 0.16
+        },
+        {
+            "timestamp": 1654858190,
+            "value": 135000,
+            "price": 0.47
         }
     ]
 }
