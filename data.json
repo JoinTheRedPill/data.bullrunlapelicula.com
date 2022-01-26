@@ -2,8 +2,8 @@
     "checkpoints": [
         {
             "timestamp": 1641817310,
-            "value": 10000,
-            "price": 0.1
+            "value": 0,
+            "price": 0
         }
     ]
 }
